@@ -9,7 +9,7 @@ I am currently studying Web Development at Trybe, already a Front-End developer 
 * 🌍  I'm based in Alfenas, MG
 * 🖥️  See my portfolio at [joaorfp.github.io](http://joaorfp.github.io)
 * ✉️  You can contact me at [joaorfp.dev@gmail.com](mailto:joaorfp.dev@gmail.com)
-* 🧠  I'm learning Back-End
+* 🧠  I'm learning Node.js
 
 ### Skills
 
