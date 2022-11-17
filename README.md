@@ -29,7 +29,7 @@ I am currently studying Web Development at Trybe, already a Full-Stack developer
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/joaorfp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/joaorfp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/17676435/joao-roberto1405" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
-### Badges
+### Bagdes
 
 <b>My GitHub Stats</b>
 
