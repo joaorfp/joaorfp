@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Web Developer
 ------------------------
 
-I am currently studying Web Development at Trybe, already a Full-Stack developer and ready to work. Also Coursing CS50x at HarvardX.
+I am currently studying Web Development at Trybe, already a Full-Stack developer and ready to work.
 
 * 🌍  I'm based in Alfenas, MG
 * ✉️  You can contact me at [joaorfp.dev@gmail.com](mailto:joaorfp.dev@gmail.com)
-* 🧠  I'm learning OOP and SOLID
+* 🧠  I'm learning mongoDB
 
 ### Skills
 
