@@ -8,7 +8,7 @@ I am currently studying Web Development at Trybe, already a Full-Stack developer
 
 * 🌍  I'm based in Alfenas, MG
 * ✉️  You can contact me at [joaorfp.dev@gmail.com](mailto:joaorfp.dev@gmail.com)
-* 🧠  I'm learning mongoDB
+* 🧠  I'm learning Python
 
 ### Skills
 
