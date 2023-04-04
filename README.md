@@ -9,9 +9,9 @@ I have been in touch with coding since I was 11 years old, when I had HTML class
 * 🌍  I'm based in Alfenas, MG
 * ✉️  You can contact me at [joaorfp.dev@gmail.com](mailto:joaorfp.dev@gmail.com)
 * 🧠  I'm learning Python
-
+-----------------
+### Skills
 <div align="center">
-<h3> 🛠 Stack</h3>
 <img
 src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
 alt="HTML5"/>
@@ -29,7 +29,7 @@ alt="JavaScript"/>
     alt="MySQL"
   />
   <img
-src="https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=python&logoColor=white"
+src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
 alt="Python"
 />
   <img alt="GIT" title="GIT" src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=F05032" />
@@ -85,8 +85,26 @@ alt="React"
     src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon"
     alt="Sinon.js"
   />
-</div>
+  <img
+    src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
+    alt="C"
+  />
+  <img
+    src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"
+    alt="DJANGO"
+  />
+  <img
+    src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+    alt="MongoDB"
+  />
+  <img
+    src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"
+    alt="Linux"
+  />
 
+
+</div>
+-----------------
 
 ### Socials
 
