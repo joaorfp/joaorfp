@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I have been in touch with coding since I was 11 years old, when I had HTML classes. Nowadays I am a Full-Stack Software Engineer, looking for a job.
+I have been in touch with coding since I was 11 years old, when I had HTML classes. Nowadays I am a Full-Stack Software Engineer.
 
 * 🌍  I'm based in Alfenas, MG
 * ✉️  You can contact me at [joaorfp.dev@gmail.com](mailto:joaorfp.dev@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning Python and PHP
 -----------------
 ### Skills
 <div align="center">
