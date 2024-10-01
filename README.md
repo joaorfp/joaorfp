@@ -8,7 +8,7 @@ I have been in touch with coding since I was 11 years old, when I had HTML class
 
 * 🌍  I'm based in Santa Rita do Sapucaí, MG
 * ✉️  You can contact me at [joaorfp.dev@gmail.com](mailto:joaorfp.dev@gmail.com)
-* 🧠  Currently coursing Software Engineering at INATEL
+* 🧠  Currently coursing Machine learning and AI at FIAP
 -----------------
 ### Skills
 <div align="center">
